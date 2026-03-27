@@ -66,10 +66,5 @@ int main()
 	list.insertAtEnd(40);
 	
 	list.display();
-	
-	
-	
-	
-	
-}
 
+}
